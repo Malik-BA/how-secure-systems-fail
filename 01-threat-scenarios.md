@@ -1,8 +1,8 @@
 A system-level analysis of failures in secure digital platforms
 
-# Scenarios | Secure Systems Threats
+# Secure Systems Threats Scenario
 
-## Scenario 1: Credential stuffing at scale
+## Credential stuffing at scale
 **What happens**
 - Attackers re-use breached credentials
 - Login endpoints become attack vectors
